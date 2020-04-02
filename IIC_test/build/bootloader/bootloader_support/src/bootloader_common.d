@@ -1,6 +1,6 @@
 src/bootloader_common.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/bootloader_support/src/bootloader_common.c \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/bootloader/../include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/bootloader/../include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/xtensa/hal.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp_err.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/log/include/esp_log.h \
@@ -16,7 +16,7 @@ src/bootloader_common.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/spi_flash/include/esp_flash_data_types.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/bootloader_support/include/bootloader_common.h
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/bootloader/../include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/bootloader/../include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/xtensa/hal.h:
 

@@ -1,4 +1,4 @@
-myiic.o: /home/bbigq/ESP-Work/TSpace/IIC_test/main/myiic.c \
+myiic.o: /home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/main/myiic.c \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdint.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/machine/_default_types.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/sys/features.h \
@@ -20,7 +20,7 @@ myiic.o: /home/bbigq/ESP-Work/TSpace/IIC_test/main/myiic.c \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/string.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/sys/string.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/log/include/esp_log.h \
- /home/bbigq/ESP-Work/TSpace/IIC_test/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h \
@@ -34,7 +34,7 @@ myiic.o: /home/bbigq/ESP-Work/TSpace/IIC_test/main/myiic.c \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/sys/stdio.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/assert.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/heap/port/esp8266/include/esp_heap_config.h \
- /home/bbigq/ESP-Work/TSpace/IIC_test/main/myiic.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/main/myiic.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/driver/gpio.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/pin_mux_register.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
@@ -82,7 +82,7 @@ myiic.o: /home/bbigq/ESP-Work/TSpace/IIC_test/main/myiic.c \
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/log/include/esp_log.h:
 
-/home/bbigq/ESP-Work/TSpace/IIC_test/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h:
 
@@ -110,7 +110,7 @@ myiic.o: /home/bbigq/ESP-Work/TSpace/IIC_test/main/myiic.c \
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/heap/port/esp8266/include/esp_heap_config.h:
 
-/home/bbigq/ESP-Work/TSpace/IIC_test/main/myiic.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/main/myiic.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/driver/gpio.h:
 
@@ -119,4 +119,4 @@ myiic.o: /home/bbigq/ESP-Work/TSpace/IIC_test/main/myiic.c \
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/gpio_register.h:
-/home/bbigq/ESP-Work/TSpace/IIC_test/main/./myiic.c:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/main/./myiic.c:

@@ -27,7 +27,7 @@ port/randombytes_esp8266.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/sys/reent.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/sys/stdio.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/assert.h \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/libsodium/port/randombytes_default.h:
 
@@ -83,5 +83,5 @@ port/randombytes_esp8266.o: \
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/assert.h:
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h:
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/libsodium/port/randombytes_esp8266.c:

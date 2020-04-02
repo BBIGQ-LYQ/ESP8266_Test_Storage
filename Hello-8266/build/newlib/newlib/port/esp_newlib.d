@@ -1,6 +1,6 @@
 newlib/port/esp_newlib.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/port/esp_newlib.c \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/reent.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/sys/reent.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/_ansi.h \
@@ -28,7 +28,7 @@ newlib/port/esp_newlib.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/unistd.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/sys/unistd.h
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/reent.h:
 

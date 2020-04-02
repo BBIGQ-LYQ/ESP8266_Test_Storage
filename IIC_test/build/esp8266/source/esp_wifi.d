@@ -1,6 +1,6 @@
 source/esp_wifi.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/source/esp_wifi.c \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp_libc.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdint.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/machine/_default_types.h \
@@ -83,7 +83,7 @@ source/esp_wifi.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/source/phy.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp_phy_init.h
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp_libc.h:
 

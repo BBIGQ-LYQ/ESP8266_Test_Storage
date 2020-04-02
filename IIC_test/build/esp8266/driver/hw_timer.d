@@ -22,7 +22,7 @@ driver/hw_timer.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/sys/_intsup.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdlib.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/machine/stdlib.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/alloca.h \
@@ -101,7 +101,7 @@ driver/hw_timer.o: \
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h:
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdlib.h:
 

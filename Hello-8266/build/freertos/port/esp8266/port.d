@@ -13,7 +13,7 @@ port/esp8266/port.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/xtensa/tie/xt_timer.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdlib.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/machine/ieeefp.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/_ansi.h \
@@ -88,7 +88,7 @@ port/esp8266/port.o: \
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h:
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdlib.h:
 

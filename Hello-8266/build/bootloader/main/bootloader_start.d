@@ -1,6 +1,6 @@
 bootloader_start.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/bootloader/subproject/main/bootloader_start.c \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/bootloader/../include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/bootloader/../include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/bootloader_support/include_priv/bootloader_config.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/spi_flash/include/esp_flash_data_types.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/bootloader_support/include_priv/bootloader_init.h \
@@ -17,7 +17,7 @@ bootloader_start.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/spi_flash/include/esp_spi_flash.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/spi_flash/include/spi_flash.h
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/bootloader/../include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/bootloader/../include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/bootloader_support/include_priv/bootloader_config.h:
 

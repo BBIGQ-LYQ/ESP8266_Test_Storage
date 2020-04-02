@@ -11,7 +11,7 @@ libcoap/src/address.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/lwip/src/include/lwip/inet.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/lwip/src/include/lwip/opt.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/port/esp8266/include/lwipopts.h \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/time.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/sys/reent.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/_ansi.h \
@@ -81,7 +81,7 @@ libcoap/src/address.o: \
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/port/esp8266/include/lwipopts.h:
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/time.h:
 

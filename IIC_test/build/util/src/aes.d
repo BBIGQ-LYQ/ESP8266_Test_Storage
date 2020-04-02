@@ -22,7 +22,7 @@ src/aes.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/util/include/ibus_data.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp_attr.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/util/include/util_assert.h \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/assert.h
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/sys/errno.h:
@@ -69,7 +69,7 @@ src/aes.o: \
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/util/include/util_assert.h:
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/assert.h:
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/util/src/aes.c:

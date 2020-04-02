@@ -1,0 +1,11 @@
+#ifndef _BLE_H_
+#define _BLE_H_
+
+#include <stdint.h>
+
+void ble_init(uint32_t baud);
+	
+void ble_send_str(const char *pbuf);
+
+#endif
+

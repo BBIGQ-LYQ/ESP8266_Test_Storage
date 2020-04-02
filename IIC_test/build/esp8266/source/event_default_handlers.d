@@ -33,7 +33,7 @@ source/event_default_handlers.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp_wifi.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/include/freertos/private/projdefs.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/include/freertos/private/portable.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/include/freertos/private/deprecated_definitions.h \
@@ -156,7 +156,7 @@ source/event_default_handlers.o: \
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h:
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/include/freertos/private/projdefs.h:
 

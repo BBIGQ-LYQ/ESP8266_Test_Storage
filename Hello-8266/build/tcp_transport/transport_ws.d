@@ -1,6 +1,6 @@
 transport_ws.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/tcp_transport/transport_ws.c \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdlib.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/machine/ieeefp.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/_ansi.h \
@@ -52,7 +52,7 @@ transport_ws.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/ssl/mbedtls/port/esp8266/include/sha1_alt.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/util/include/esp_sha.h
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdlib.h:
 

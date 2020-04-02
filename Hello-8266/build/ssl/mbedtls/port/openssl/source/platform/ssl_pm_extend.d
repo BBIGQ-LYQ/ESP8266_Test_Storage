@@ -32,7 +32,7 @@ mbedtls/port/openssl/source/platform/ssl_pm_extend.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp_system.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp_err.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/assert.h \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/heap/include/esp_heap_caps.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/heap/port/esp8266/include/esp_heap_config.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/lwip/src/include/lwip/err.h \
@@ -121,7 +121,7 @@ mbedtls/port/openssl/source/platform/ssl_pm_extend.o: \
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/assert.h:
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/heap/include/esp_heap_caps.h:
 

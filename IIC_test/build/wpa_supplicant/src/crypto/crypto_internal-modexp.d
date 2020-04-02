@@ -36,7 +36,7 @@ src/crypto/crypto_internal-modexp.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/assert.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/include/freertos/private/projdefs.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/include/freertos/private/portable.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/include/freertos/private/deprecated_definitions.h \
@@ -137,7 +137,7 @@ src/crypto/crypto_internal-modexp.o: \
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h:
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/include/freertos/private/projdefs.h:
 

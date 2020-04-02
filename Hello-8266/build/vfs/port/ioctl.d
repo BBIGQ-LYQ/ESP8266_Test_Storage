@@ -1,6 +1,6 @@
 port/ioctl.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/vfs/port/ioctl.c \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/lwip/src/include/lwip/sockets.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/lwip/src/include/lwip/opt.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/port/esp8266/include/lwipopts.h \
@@ -53,7 +53,7 @@ port/ioctl.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/sys/errno.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/vfs/include/sys/ioctl.h
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/lwip/src/include/lwip/sockets.h:
 

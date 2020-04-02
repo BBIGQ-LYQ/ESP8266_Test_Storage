@@ -1,5 +1,6 @@
-oled_iic.o: /home/bbigq/ESP-Work/TSpace/IIC_test/main/oled_iic.c \
- /home/bbigq/ESP-Work/TSpace/IIC_test/main/oled_iic.h \
+oled_iic.o: \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/main/oled_iic.c \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/main/oled_iic.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdint.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/machine/_default_types.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/sys/features.h \
@@ -18,8 +19,8 @@ oled_iic.o: /home/bbigq/ESP-Work/TSpace/IIC_test/main/oled_iic.c \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/sys/cdefs.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/machine/stdlib.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/alloca.h \
- /home/bbigq/ESP-Work/TSpace/IIC_test/main/oledfont.h \
- /home/bbigq/ESP-Work/TSpace/IIC_test/main/myiic.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/main/oledfont.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/main/myiic.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/driver/gpio.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp_err.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdio.h \
@@ -34,7 +35,7 @@ oled_iic.o: /home/bbigq/ESP-Work/TSpace/IIC_test/main/oled_iic.c \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/gpio_register.h
 
-/home/bbigq/ESP-Work/TSpace/IIC_test/main/oled_iic.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/main/oled_iic.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdint.h:
 
@@ -72,9 +73,9 @@ oled_iic.o: /home/bbigq/ESP-Work/TSpace/IIC_test/main/oled_iic.c \
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/alloca.h:
 
-/home/bbigq/ESP-Work/TSpace/IIC_test/main/oledfont.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/main/oledfont.h:
 
-/home/bbigq/ESP-Work/TSpace/IIC_test/main/myiic.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/main/myiic.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/driver/gpio.h:
 
@@ -101,4 +102,4 @@ oled_iic.o: /home/bbigq/ESP-Work/TSpace/IIC_test/main/oled_iic.c \
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/gpio_register.h:
-/home/bbigq/ESP-Work/TSpace/IIC_test/main/./oled_iic.c:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/main/./oled_iic.c:

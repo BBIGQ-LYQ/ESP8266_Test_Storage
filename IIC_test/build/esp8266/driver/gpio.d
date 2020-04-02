@@ -34,7 +34,7 @@ driver/gpio.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/assert.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/gpio_register.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/log/include/esp_log.h \
- /home/bbigq/ESP-Work/TSpace/IIC_test/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/log/include/esp_log_internal.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/include/freertos/FreeRTOS.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
@@ -128,7 +128,7 @@ driver/gpio.o: \
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/log/include/esp_log.h:
 
-/home/bbigq/ESP-Work/TSpace/IIC_test/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/log/include/esp_log_internal.h:
 

@@ -1,7 +1,7 @@
 port/esp8266/esp_heap_init.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/heap/port/esp8266/esp_heap_init.c \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/heap/include/esp_heap_caps.h \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdint.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/machine/_default_types.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/sys/features.h \
@@ -28,7 +28,7 @@ port/esp8266/esp_heap_init.o: \
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/heap/include/esp_heap_caps.h:
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/IIC_test/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdint.h:
 

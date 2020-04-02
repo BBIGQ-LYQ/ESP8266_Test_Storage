@@ -3,7 +3,7 @@ lwip/src/netif/slipif.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/lwip/src/include/netif/slipif.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/lwip/src/include/lwip/opt.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/port/esp8266/include/lwipopts.h \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/time.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/_ansi.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/newlib.h \
@@ -97,7 +97,7 @@ lwip/src/netif/slipif.o: \
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/port/esp8266/include/lwipopts.h:
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/time.h:
 

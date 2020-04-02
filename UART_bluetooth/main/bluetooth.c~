@@ -1,0 +1,31 @@
+#include <string.h>
+
+#include "bluetooth.h"
+
+#include "driver/uart.h"
+
+static const char *TAGI = "bluetooth";
+
+void ble_init(uint32_t baud)
+{
+    uart_config_t uart_config = {
+        .baud_rate = baud,                      //蓝牙波特率
+        .data_bits = UART_DATA_8_BITS,          //8位数据位
+        .parity    = UART_PARITY_DISABLE,       //无奇偶校验
+        .stop_bits = UART_STOP_BITS_1,          //1位停止位
+        .flow_ctrl = UART_HW_FLOWCTRL_DISABLE   //无硬件流
+    };
+    
+    uart_param_config(UART_NUM_0, &uart_config);                //配置初始化
+    uart_driver_install(UART_NUM_0, BUF_SIZE * 2, 0, 0, NULL);  //安装串口驱动
+}
+	
+void ble_send_str(const char *pbuf)
+{
+    uart_write_bytes(UART_NUM_0, pbuf, strlen(pbuf));
+}
+
+
+
+
+

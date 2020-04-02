@@ -21,7 +21,7 @@ libcoap/src/encode.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/coap/port/include/coap_config.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/coap/port/include/coap_config_posix.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/lwip/src/include/posix/sys/socket.h \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/lwip/src/include/lwip/sockets.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/lwip/src/include/lwip/opt.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/port/esp8266/include/lwipopts.h \
@@ -99,7 +99,7 @@ libcoap/src/encode.o: \
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/lwip/src/include/posix/sys/socket.h:
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/lwip/lwip/src/include/lwip/sockets.h:
 

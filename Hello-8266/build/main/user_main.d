@@ -1,4 +1,5 @@
-user_main.o: /home/bbigq/ESP-Work/TSpace/Hello-8266/main/user_main.c \
+user_main.o: \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/main/user_main.c \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdio.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/_ansi.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/newlib.h \
@@ -26,7 +27,7 @@ user_main.o: /home/bbigq/ESP-Work/TSpace/Hello-8266/main/user_main.c \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdint.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/sys/_intsup.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h \
@@ -118,7 +119,7 @@ user_main.o: /home/bbigq/ESP-Work/TSpace/Hello-8266/main/user_main.c \
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include/freertos/FreeRTOSConfig.h:
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h:
 
@@ -191,4 +192,4 @@ user_main.o: /home/bbigq/ESP-Work/TSpace/Hello-8266/main/user_main.c \
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/log/include/esp_log_internal.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp_system.h:
-/home/bbigq/ESP-Work/TSpace/Hello-8266/main/./user_main.c:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/main/./user_main.c:

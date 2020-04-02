@@ -1,6 +1,6 @@
 src/bootloader_init.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/bootloader_support/src/bootloader_init.c \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/bootloader/../include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/bootloader/../include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp_err.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/log/include/esp_log.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
@@ -20,7 +20,7 @@ src/bootloader_init.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/pin_mux_register.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/rom_functions.h
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/bootloader/../include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/bootloader/../include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/esp8266/include/esp_err.h:
 

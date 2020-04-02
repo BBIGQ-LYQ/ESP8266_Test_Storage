@@ -1,6 +1,6 @@
 src/bootloader_common.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/bootloader_support/src/bootloader_common.c \
- /home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h \
+ /home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdint.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/machine/_default_types.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/sys/features.h \
@@ -37,7 +37,7 @@ src/bootloader_common.o: \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/spi_flash/include/esp_flash_data_types.h \
  /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/bootloader_support/include/bootloader_common.h
 
-/home/bbigq/ESP-Work/TSpace/Hello-8266/build/include/sdkconfig.h:
+/home/bbigq/ESP-Work/ESP8266_Test_Storage/Hello-8266/build/include/sdkconfig.h:
 
 /home/bbigq/ESP-Work/ESP8266_RTOS_SDK/components/newlib/newlib/include/stdint.h:
 
