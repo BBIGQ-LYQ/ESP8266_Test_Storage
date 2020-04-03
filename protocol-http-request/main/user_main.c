@@ -18,9 +18,11 @@
 #include "esp_system.h"
 
 #include "BBIGQ_TCP.h"
-
-#define EXAMPLE_WIFI_SSID "CMCC-BBIG-YD"
-#define EXAMPLE_WIFI_PASS "LIN888+++"
+//可以通过以下设置，也可以在make menuconfig中设置
+//#define EXAMPLE_WIFI_SSID CONFIG_WIFI_SSID
+//#define EXAMPLE_WIFI_PASS CONFIG_WIFI_PASSWORD
+#define EXAMPLE_WIFI_SSID "你家wifi名称"
+#define EXAMPLE_WIFI_PASS "你家wifi密码"
 
 static EventGroupHandle_t wifi_event_group;
 
