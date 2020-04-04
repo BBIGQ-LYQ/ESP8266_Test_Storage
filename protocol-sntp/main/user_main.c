@@ -19,8 +19,8 @@
 #include "myiic.h"
 #include "oled_iic.h"
 
-#define EXAMPLE_WIFI_SSID "CMCC-BBIG-YD"
-#define EXAMPLE_WIFI_PASS "LIN888+++"
+#define EXAMPLE_WIFI_SSID "你的WIFI名"
+#define EXAMPLE_WIFI_PASS "你的WIFI密码"
 
 static const char *TAG = "sntp_test&show_time";
 
